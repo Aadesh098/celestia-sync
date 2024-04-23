@@ -21,6 +21,12 @@ const Navbar = () => {
       </Link>
       <div className="flex-between gap-5">
         <SignedIn>
+        <Link href="https://celestia-azure.vercel.app/" className="flex w-32 justify-end">
+          <Image 
+            src="/icons/lg.png" width={28} height={8}
+            alt="Video" 
+          />
+        </Link>
           <UserButton afterSignOutUrl="/sign-in" />
         </SignedIn>
 
