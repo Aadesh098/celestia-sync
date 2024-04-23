@@ -5,7 +5,7 @@ import Navbar from '@/components/Navbar';
 import Sidebar from '@/components/Sidebar';
 
 export const metadata: Metadata = {
-  title: 'Syncs',
+  title: 'Sync',
   description: 'Host Event Seminars and Much More',
 };
 
