@@ -1,7 +1,7 @@
 A Scalable Video Conferencing Application
 
-Test Credentials 
-Username - aadesh_001 
+Test Credentials : 
+Username - aadesh_001 ,
 Password - usertest@789
 
 ![image](https://github.com/Aadesh098/celestia-sync/assets/48157409/980b3bd5-7ae6-4c24-899a-9176c6253608)
