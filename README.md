@@ -8,6 +8,10 @@ Password - usertest@789
 
 ![image](https://github.com/Aadesh098/celestia-sync/assets/48157409/32cbb2a4-7341-475b-aaf9-c4f71db1cdcb)
 
+![image](https://github.com/Aadesh098/celestia-sync/assets/48157409/c4771e06-a0c0-416c-bb91-2be73d03e057)
+
+![image](https://github.com/Aadesh098/celestia-sync/assets/48157409/ca137d7d-5211-4b1c-be43-f521a27cf519)
+
 ![image](https://github.com/Aadesh098/celestia-sync/assets/48157409/a5477545-1b35-47d8-8472-ea1a6d9f889c)
 
 ![image](https://github.com/Aadesh098/celestia-sync/assets/48157409/06f3299b-5710-4cef-8bc7-66c85eee674a)
